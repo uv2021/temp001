@@ -1,1 +1,1 @@
-bash -c "echo hola"
+etc/paswwd | bash -c "echo hola"
