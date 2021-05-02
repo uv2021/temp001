@@ -1,1 +1,1 @@
-/etc/passwd
+bash -c "echo hola"
